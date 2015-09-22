@@ -3,4 +3,4 @@ WebCapsule is a Record & Replay engine for Web Browsers implemented as a self-co
 
 You can find more information about WebCapsule by reading our [ACM CCS 2015 paper](http://roberto.perdisci.com/publications/publication-files/webcapsule.pdf).
 
-See our [WebCapsule prject wiki](https://github.com/perdisci/WebCapsule/wiki) for instructions on [how to download and run WebCapsule](https://github.com/perdisci/WebCapsule/wiki).
+See our [WebCapsule project wiki](https://github.com/perdisci/WebCapsule/wiki) for instructions on [how to download and run WebCapsule](https://github.com/perdisci/WebCapsule/wiki).
