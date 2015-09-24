@@ -1,9 +1,12 @@
+
 /*
- * ForensicLoadHistoryItemEvent.h
+ * Copyright (C) 2015 University of Georgia. All rights reserved.
  *
- *  Created on: Dec 29, 2014
- *      Author: roberto.perdisci
+ * This file is subject to the terms and conditions defined at
+ * https://github.com/perdisci/WebCapsule/blob/master/LICENSE.txt
+ *
  */
+
 
 #ifndef ForensicLoadHistoryItemEvent_h
 #define ForensicLoadHistoryItemEvent_h

@@ -1,9 +1,12 @@
+
 /*
- * platform-instrumenation.cc
+ * Copyright (C) 2015 University of Georgia. All rights reserved.
  *
- *  Created on: Sep 2, 2014
- *      Author: cjneasbi
+ * This file is subject to the terms and conditions defined at
+ * https://github.com/perdisci/WebCapsule/blob/master/LICENSE.txt
+ *
  */
+
 
 #include "platform-instrumentation.h"
 #include "objects.h"
