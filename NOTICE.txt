@@ -1,0 +1,17 @@
+
+=== WebCapsule Developers ===
+
+Christopher J Neasbitt <cjneasbi@uga.edu>
+Bo Li <lubao515@uga.edu>
+Roberto Perdisci <perdisci@cs.uga.edu>
+
+=== Copyright Information ===
+
+Copyright 2015 - The University of Georgia.
+
+=== Additional Notes ===
+
+Notice that some files may carry their own copyright notices.
+
+In particular, WebCapsule's code release contains modifications to source files from the Google Chromium project (https://www.chromium.org), which are distributed under their own original license.
+
