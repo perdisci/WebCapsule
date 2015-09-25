@@ -5,6 +5,15 @@ Christopher J Neasbitt <cjneasbi@uga.edu>
 Bo Li <lubao515@uga.edu>
 Roberto Perdisci <perdisci@cs.uga.edu>
 
+=== Project Team Members ===
+
+Roberto Perdisci <perdisci@cs.uga.edu> (project director)
+Christopher J Neasbitt <cjneasbi@uga.edu>
+Bo Li <lubao515@uga.edu>
+Long Lu <long@cs.stonybrook.edu>
+Kapil Singh <kapil@us.ibm.com>
+Kang Li <kangli@cs.uga.edu>
+
 === Copyright Information ===
 
 Copyright 2015 - The University of Georgia.
