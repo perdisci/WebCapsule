@@ -7,7 +7,7 @@ See our [WebCapsule project wiki](https://github.com/perdisci/WebCapsule/wiki) f
 
 ### Project Team Members
 
-* Roberto Perdisci [perdisci (at) cs.uga.edu] (project director)
+* Roberto Perdisci [perdisci (at) cs.uga.edu] - project director
 * Christopher J Neasbitt [cjneasbi (at) uga.edu]
 * Bo Li [lubao515 (at) uga.edu]
 * Long Lu [long (at) cs.stonybrook.edu]
