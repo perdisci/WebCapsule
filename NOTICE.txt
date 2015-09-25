@@ -1,9 +1,9 @@
 
 === WebCapsule Developers ===
 
-Christopher J Neasbitt <cjneasbi@uga.edu>
-Bo Li <lubao515@uga.edu>
-Roberto Perdisci <perdisci@cs.uga.edu>
+Christopher J Neasbitt <cjneasbi (at) uga.edu>
+Bo Li <lubao515 (at) uga.edu>
+Roberto Perdisci <perdisci (at) cs.uga.edu>
 
 === Project Team Members ===
 
